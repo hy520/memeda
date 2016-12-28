@@ -1,0 +1,26 @@
+{
+  "name": "memeda",
+  "version": "1.0.0",
+  "description": "openshift node express app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hy520/memeda.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "hy520",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hy520/memeda/issues"
+  },
+  "homepage": "https://github.com/hy520/memeda#readme",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.7.5"
+  }
+}
